@@ -1,6 +1,10 @@
 # DR.BRICK 昆虫积木花枝宣传片
 
-最新文件：`drbrick-insect-flowers-30s-garden.mp4`
+最新文件：`drbrick-insect-flowers-30s-garden-compatible.mp4`
+
+兼容性修复：改用 H.264 Constrained Baseline / Level 3.1 / 8-bit yuv420p，以及 AAC-LC / 48 kHz / 双声道，MP4 启用 faststart。原 garden.mp4 路径也已替换为修复版。视频内容、背景和 30 秒时长保持不变。
+
+验证：完整视频解码通过；Chromium 以完整下载文件进行播放测试，开始播放、中间跳转和结尾播放均通过，未报告媒体错误。
 
 ![花园背景版预览](preview-garden.jpg)
 
@@ -33,5 +37,5 @@
 
 ## 在 GitHub 查看
 
-打开 `drbrick-insect-flowers-30s-garden.mp4`，点击 **Download raw file** 下载，再用电脑或手机播放器打开。
+打开 `drbrick-insect-flowers-30s-garden-compatible.mp4`，点击 **Download raw file** 下载，再用电脑或手机播放器打开。
 GitHub 文件页面不一定会直接播放 MP4。
