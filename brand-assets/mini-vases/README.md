@@ -1,6 +1,8 @@
 # DR.BRICK 五款迷你积木花瓶 · 30 秒动效广告
 
-文件：`drbrick-mini-vases-ad-30s.mp4`
+最新文件：`drbrick-mini-vases-30s-original-logo.mp4`
+
+本版顶部及结尾直接使用用户上传的原始 Logo 图片，仅裁去外围白边并等比例缩放；30 秒时长、产品动效和配乐沿用上一版。
 
 ## 创意与交付
 
