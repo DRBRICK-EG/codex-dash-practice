@@ -19,3 +19,12 @@
 模型卡指向的训练数据：https://github.com/AliMokhammad/arabicttstrain/
 
 验证结果：全片解码无报错；Chromium 浏览器起播、跳转和播放至结尾正常。未在实体 Windows 设备上实测。
+
+## V2 · 卡通男孩风格调音试听
+
+- [V2 视频](https://raw.githubusercontent.com/DRBRICK-EG/codex-dash-practice/drbrick-brand-character/brand-assets/slogan-intro/drbrick-slogan-boy-intro-3s-v2.mp4)
+- [V2 独立人声](https://raw.githubusercontent.com/DRBRICK-EG/codex-dash-practice/drbrick-brand-character/brand-assets/slogan-intro/drbrick-slogan-boy-voice-v2.wav)
+
+根据“更偏卡通小男孩，减少机械感”的反馈重新分句合成，并调整停顿、动态音高、共振峰和音色，口型重新跟随新版人声。画面与原版 logo 延续第一版，总时长仍为 3 秒。
+
+这是一版基于同一阿拉伯语成人合成模型制作的卡通风格调音试听，未声称采用新的儿童声库或真人儿童录音；实际自然度与情绪表现需试听确认。保留第一版，便于比较。
